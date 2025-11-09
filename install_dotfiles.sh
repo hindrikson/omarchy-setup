@@ -37,6 +37,7 @@ if [ $? -eq 0 ]; then
   stow yazi
   stow zathura 
   stow zshrc
+  stow omz-theme
 else
   echo "Failed to clone repository."
   exit 1
