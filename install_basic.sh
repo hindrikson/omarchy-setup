@@ -1,7 +1,5 @@
 #!/bin/sh
 
-cd ~
-
 sudo pacman -Sy --noconfirm --needed \
   kitty \
   stow \
@@ -13,5 +11,4 @@ sudo pacman -Sy --noconfirm --needed \
   keepassxc \
   zathura-pdf-poppler \
   tmux \
-  nvm 
-
+  libpqxx

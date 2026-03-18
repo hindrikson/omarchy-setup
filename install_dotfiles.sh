@@ -43,3 +43,4 @@ else
   exit 1
 fi
 
+cd $ORIGINAL_DIR
