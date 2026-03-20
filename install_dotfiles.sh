@@ -1,6 +1,6 @@
 #!/bin/sh
 
-cd ~/omarchy/
+cd ~/omarchy-setup/
 
 ORIGINAL_DIR=$(pwd)
 REPO_URL="git@github.com:hindrikson/.dotfiles.git"
